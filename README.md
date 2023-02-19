@@ -1,1 +1,1 @@
-# These code snippets will help you analyse your sales data using Python in a clear and concise manner. The code is easy to follow and understand, so it shouldn't take too long to complete.
+The projects in this repo are part of my business analytics portfolio. I use tools like Python, SQL, Tableau and MS Excel to analyze data from various sources, build reports and create visualizations to present my findings.
